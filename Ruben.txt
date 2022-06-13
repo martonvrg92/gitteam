@@ -11,3 +11,5 @@ xxx
 
 yyy
 >>>>>>> Stashed changes
+
+b6 change
