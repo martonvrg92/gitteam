@@ -5,12 +5,20 @@ changed by Marci
 
 xxx
 
-<<<<<<< Updated upstream
-=======
+
+branching out exercise - twoparam
+
+
 xxx
 
 yyy
->>>>>>> Stashed changes
+
 
 b6 change
+<<<<<<< HEAD
 b6 change
+=======
+=======
+
+
+>>>>>>> df0c7d89aadf047ee82edad2e716c6747f212c6d
