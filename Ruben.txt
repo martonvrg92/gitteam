@@ -5,3 +5,9 @@ changed by Marci
 
 xxx
 
+<<<<<<< Updated upstream
+=======
+xxx
+
+yyy
+>>>>>>> Stashed changes
